@@ -1,0 +1,32 @@
+[15-Feb-2024 11:30:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/bpaycomp/public_html/mobile/register/register5.php:32
+Stack trace:
+#0 /home/bpaycomp/public_html/mobile/register/index.php(30): include()
+#1 {main}
+  thrown in /home/bpaycomp/public_html/mobile/register/register5.php on line 32
+[29-Sep-2024 03:47:00 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/bpaycomp/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'bpaycomp_new', 'admin@25..25')
+#1 /home/bpaycomp/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/bpaycomp/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/bpaycomp/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/bpaycomp/public_html/mobile/register/index.php(9): require_once('/home/bpaycomp/...')
+#5 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/Model.php on line 29
+[29-Sep-2024 03:47:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/bpaycomp/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'bpaycomp_new', 'admin@25..25')
+#1 /home/bpaycomp/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/bpaycomp/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/bpaycomp/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/bpaycomp/public_html/mobile/register/index.php(9): require_once('/home/bpaycomp/...')
+#5 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/Model.php on line 29
+[29-Sep-2024 03:47:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/bpaycomp/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'bpaycomp_new', 'admin@25..25')
+#1 /home/bpaycomp/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/bpaycomp/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/bpaycomp/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/bpaycomp/public_html/mobile/register/index.php(9): require_once('/home/bpaycomp/...')
+#5 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/Model.php on line 29

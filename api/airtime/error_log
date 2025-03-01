@@ -1,0 +1,36 @@
+[30-May-2024 13:12:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 78
+[30-May-2024 13:12:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 78
+[03-Jul-2024 11:09:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[03-Jul-2024 11:10:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[03-Jul-2024 11:39:00 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method Airtime::purchaseAirtimeWithBasicAuthentication() in /home/bpaycomp/public_html/core/Controllers/Airtime.php:26
+Stack trace:
+#0 /home/bpaycomp/public_html/api/airtime/index.php(279): Airtime->purchaseMyAirtime(Object(stdClass), Array)
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 26
+[03-Jul-2024 11:40:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[03-Jul-2024 16:09:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[04-Jul-2024 13:00:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[04-Jul-2024 23:52:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[06-Jul-2024 10:00:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[06-Jul-2024 10:40:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[06-Jul-2024 12:31:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 128
+[06-Jul-2024 12:34:33 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/Airtime.php:7
+Stack trace:
+#0 /home/bpaycomp/public_html/api/airtime/index.php(279): Airtime->purchaseMyAirtime(Object(stdClass), Array)
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 7
+[06-Jul-2024 12:35:26 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/Airtime.php:7
+Stack trace:
+#0 /home/bpaycomp/public_html/api/airtime/index.php(279): Airtime->purchaseMyAirtime(Object(stdClass), Array)
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 7
+[06-Jul-2024 12:40:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 129
+[06-Jul-2024 12:42:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 130
+[06-Jul-2024 12:43:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 130
+[06-Jul-2024 12:47:39 Africa/Lagos] PHP Warning:  Undefined variable $ported_number in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 155
+[06-Jul-2024 12:48:08 Africa/Lagos] PHP Warning:  Undefined variable $ported_number in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 155
+[06-Jul-2024 12:48:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 131
+[06-Jul-2024 12:53:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 131
+[06-Jul-2024 12:54:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 131
+[06-Jul-2024 12:54:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 131
+[06-Jul-2024 12:56:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/bpaycomp/public_html/core/Controllers/Airtime.php on line 131

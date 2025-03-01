@@ -1,0 +1,390 @@
+[03-Jan-2023 02:20:03 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:20:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:02 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:09 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:22:15 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:22:15 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 03:51:23 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/transactions.php on line 41
+[03-Jan-2023 04:28:39 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/transactions.php on line 41
+[13-Feb-2024 13:21:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[13-Feb-2024 13:21:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[13-Feb-2024 13:29:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[13-Feb-2024 13:29:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[13-Feb-2024 13:34:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[13-Feb-2024 13:34:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[13-Feb-2024 13:51:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[13-Feb-2024 13:51:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[13-Feb-2024 14:13:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[13-Feb-2024 14:13:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[13-Feb-2024 14:13:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[13-Feb-2024 14:13:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[13-Feb-2024 14:17:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[13-Feb-2024 14:17:04 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[13-Feb-2024 14:33:11 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[13-Feb-2024 15:05:40 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[13-Feb-2024 15:05:40 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[14-Feb-2024 06:25:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[14-Feb-2024 06:25:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[14-Feb-2024 07:03:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[14-Feb-2024 07:03:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[14-Feb-2024 11:02:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[14-Feb-2024 11:02:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[14-Feb-2024 20:15:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[14-Feb-2024 20:15:24 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[14-Feb-2024 20:17:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[14-Feb-2024 20:17:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-Feb-2024 10:11:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[15-Feb-2024 10:11:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-Feb-2024 10:57:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[15-Feb-2024 10:57:36 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[19-Feb-2024 21:27:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[19-Feb-2024 21:27:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[19-Feb-2024 21:30:16 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[19-Feb-2024 21:33:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[19-Feb-2024 21:33:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[19-Feb-2024 21:36:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[19-Feb-2024 21:36:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[20-Feb-2024 10:05:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[20-Feb-2024 10:05:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[20-Feb-2024 10:06:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[20-Feb-2024 10:06:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[23-Feb-2024 12:23:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[23-Feb-2024 12:23:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[23-Feb-2024 12:24:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[23-Feb-2024 12:24:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[23-Feb-2024 12:24:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[23-Feb-2024 12:24:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[07-Mar-2024 14:02:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[07-Mar-2024 14:02:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[19-Mar-2024 18:28:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[19-Mar-2024 18:28:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[19-Mar-2024 18:31:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[19-Mar-2024 18:31:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[19-Mar-2024 19:02:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[19-Mar-2024 19:02:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[19-Mar-2024 19:13:59 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[19-Mar-2024 19:22:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[19-Mar-2024 19:22:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[23-Mar-2024 10:31:13 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[23-Mar-2024 10:31:13 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-May-2024 08:52:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[15-May-2024 08:52:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-May-2024 09:00:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[15-May-2024 09:00:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-May-2024 09:11:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[15-May-2024 09:11:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-May-2024 09:14:25 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[15-May-2024 10:21:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[15-May-2024 10:21:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-May-2024 10:21:43 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[15-May-2024 10:22:19 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[15-May-2024 10:25:31 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[30-May-2024 13:06:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[30-May-2024 13:06:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-May-2024 14:38:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[30-May-2024 14:38:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-May-2024 19:51:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[30-May-2024 19:51:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-May-2024 20:43:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[30-May-2024 20:43:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-May-2024 21:26:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[30-May-2024 21:26:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-May-2024 21:39:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[30-May-2024 21:39:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-May-2024 21:40:11 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[30-May-2024 21:42:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[30-May-2024 21:42:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Jun-2024 18:48:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[06-Jun-2024 18:48:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Jun-2024 18:59:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[06-Jun-2024 18:59:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Jun-2024 19:00:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[06-Jun-2024 19:00:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Jun-2024 19:01:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[06-Jun-2024 19:01:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[22-Jun-2024 23:11:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[22-Jun-2024 23:11:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[22-Jun-2024 23:12:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[22-Jun-2024 23:12:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[25-Jun-2024 22:40:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[25-Jun-2024 22:40:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[25-Jun-2024 23:57:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[25-Jun-2024 23:57:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[26-Jun-2024 00:07:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[26-Jun-2024 00:07:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[26-Jun-2024 00:38:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[26-Jun-2024 00:38:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[26-Jun-2024 00:50:17 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[26-Jun-2024 17:33:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[26-Jun-2024 17:33:31 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[26-Jun-2024 19:49:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[26-Jun-2024 19:49:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[26-Jun-2024 20:22:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[26-Jun-2024 20:22:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[26-Jun-2024 20:23:43 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[03-Jul-2024 08:39:46 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[03-Jul-2024 08:39:46 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[03-Jul-2024 10:23:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[03-Jul-2024 10:23:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[03-Jul-2024 10:53:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[03-Jul-2024 10:53:58 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[03-Jul-2024 10:55:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[03-Jul-2024 10:55:00 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[03-Jul-2024 13:33:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[03-Jul-2024 13:33:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[03-Jul-2024 15:50:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[03-Jul-2024 15:50:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[04-Jul-2024 10:29:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[04-Jul-2024 10:29:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[04-Jul-2024 13:56:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[04-Jul-2024 13:56:30 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[04-Jul-2024 13:59:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[04-Jul-2024 13:59:57 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[04-Jul-2024 16:57:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[04-Jul-2024 16:57:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[05-Jul-2024 17:21:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[05-Jul-2024 17:21:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Jul-2024 08:55:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[06-Jul-2024 08:55:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Jul-2024 12:30:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[06-Jul-2024 12:30:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Jul-2024 15:45:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[06-Jul-2024 15:45:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[07-Jul-2024 01:22:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[07-Jul-2024 01:22:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[07-Jul-2024 01:23:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[07-Jul-2024 01:23:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[07-Jul-2024 01:25:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[07-Jul-2024 01:25:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[07-Jul-2024 15:45:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[07-Jul-2024 15:45:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[07-Jul-2024 16:17:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[07-Jul-2024 16:17:35 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[08-Jul-2024 13:51:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[08-Jul-2024 13:51:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[08-Jul-2024 14:22:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[08-Jul-2024 14:22:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 00:36:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 00:36:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 00:48:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 00:48:12 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 09:20:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 09:20:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 09:34:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 09:34:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 12:06:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 12:06:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 12:06:55 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[09-Jul-2024 12:13:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 12:13:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 12:15:20 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 12:15:20 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 12:22:47 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[09-Jul-2024 12:40:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 12:40:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 19:40:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 19:40:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 20:24:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 20:24:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 20:26:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 20:26:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 20:29:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 20:29:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 20:31:09 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[09-Jul-2024 20:35:13 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 20:35:13 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 21:55:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 21:55:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 22:06:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 22:06:28 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 22:21:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 22:21:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 23:26:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 23:26:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[09-Jul-2024 23:28:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[09-Jul-2024 23:28:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Jul-2024 09:29:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[10-Jul-2024 09:29:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Jul-2024 10:08:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[10-Jul-2024 10:08:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Jul-2024 11:18:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[10-Jul-2024 11:18:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Jul-2024 11:20:05 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[10-Jul-2024 11:34:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[10-Jul-2024 11:34:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Jul-2024 12:46:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[10-Jul-2024 12:46:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Jul-2024 12:49:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[10-Jul-2024 12:49:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Jul-2024 21:10:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[10-Jul-2024 21:10:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Jul-2024 21:14:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[10-Jul-2024 21:14:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[11-Jul-2024 04:25:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[11-Jul-2024 04:25:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[11-Jul-2024 16:18:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[11-Jul-2024 16:18:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 10:51:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 82
+[12-Jul-2024 10:51:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 13:19:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 13:22:18 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 13:22:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 13:23:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 13:24:29 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 13:24:51 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 13:25:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[12-Jul-2024 22:14:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[14-Jul-2024 12:41:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[14-Jul-2024 22:28:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[14-Jul-2024 23:53:49 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-Jul-2024 18:06:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-Jul-2024 18:07:23 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[15-Jul-2024 18:08:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[16-Jul-2024 10:09:50 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[17-Jul-2024 03:01:39 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[17-Jul-2024 13:57:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[17-Jul-2024 16:16:01 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[18-Jul-2024 19:41:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[21-Jul-2024 19:46:03 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[21-Jul-2024 19:46:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[21-Jul-2024 19:49:54 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[21-Jul-2024 19:50:13 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[21-Jul-2024 21:33:13 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[21-Jul-2024 21:33:34 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[21-Jul-2024 21:35:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[22-Jul-2024 21:21:08 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[24-Jul-2024 12:55:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[24-Jul-2024 12:55:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[24-Jul-2024 12:56:37 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[24-Jul-2024 18:01:39 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[24-Jul-2024 18:05:20 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[24-Jul-2024 18:06:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[24-Jul-2024 18:06:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[24-Jul-2024 21:11:19 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[24-Jul-2024 21:12:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[25-Jul-2024 16:16:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[29-Jul-2024 00:56:40 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 16:31:11 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 16:32:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 16:33:21 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 19:36:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 21:05:37 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 21:18:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 21:20:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 21:23:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 21:25:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[30-Jul-2024 21:25:44 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[01-Aug-2024 11:48:46 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[01-Aug-2024 12:34:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[01-Aug-2024 20:10:47 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[02-Aug-2024 17:54:41 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[02-Aug-2024 18:13:10 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[02-Aug-2024 18:14:42 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[03-Aug-2024 19:48:02 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[04-Aug-2024 09:01:22 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[04-Aug-2024 11:42:26 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[04-Aug-2024 12:57:39 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[05-Aug-2024 20:01:16 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[05-Aug-2024 23:45:23 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[05-Aug-2024 23:49:25 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Aug-2024 11:25:46 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Aug-2024 18:29:59 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[06-Aug-2024 21:24:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[07-Aug-2024 11:01:09 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[08-Aug-2024 21:08:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[08-Aug-2024 22:51:15 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[10-Aug-2024 21:14:45 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[11-Aug-2024 11:39:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[11-Aug-2024 11:40:38 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[11-Aug-2024 17:47:33 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[11-Aug-2024 22:59:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[13-Aug-2024 13:51:06 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-Aug-2024 09:53:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-Aug-2024 12:37:55 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[15-Aug-2024 12:40:05 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/bpaycomp/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'bpaycomp_new', 'admin@25..25')
+#1 /home/bpaycomp/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/bpaycomp/public_html/core/Controllers/AdminController.php(20): Model->__construct()
+#3 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(300): AdminController->__construct()
+#4 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(293): getDataIfAny('credit-user')
+#5 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(282): createView('credit-user')
+#6 /home/bpaycomp/public_html/admin/dashboard/index.php(1): require_once('/home/bpaycomp/...')
+#7 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/Model.php on line 29
+[15-Aug-2024 12:40:16 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/bpaycomp/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'bpaycomp_new', 'admin@25..25')
+#1 /home/bpaycomp/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/bpaycomp/public_html/core/Controllers/AdminController.php(20): Model->__construct()
+#3 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(54): AdminController->__construct()
+#4 /home/bpaycomp/public_html/admin/dashboard/index.php(1): require_once('/home/bpaycomp/...')
+#5 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/Model.php on line 29
+[15-Aug-2024 12:40:36 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/bpaycomp/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'bpaycomp_new', 'admin@25..25')
+#1 /home/bpaycomp/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/bpaycomp/public_html/core/Controllers/AdminController.php(20): Model->__construct()
+#3 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(300): AdminController->__construct()
+#4 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(293): getDataIfAny('credit-user')
+#5 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(282): createView('credit-user')
+#6 /home/bpaycomp/public_html/admin/dashboard/index.php(1): require_once('/home/bpaycomp/...')
+#7 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/Model.php on line 29
+[15-Aug-2024 12:41:43 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[15-Aug-2024 12:42:36 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/bpaycomp/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'bpaycomp_new', 'admin@25..25')
+#1 /home/bpaycomp/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/bpaycomp/public_html/core/Controllers/AdminController.php(20): Model->__construct()
+#3 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(54): AdminController->__construct()
+#4 /home/bpaycomp/public_html/admin/dashboard/index.php(1): require_once('/home/bpaycomp/...')
+#5 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/Model.php on line 29
+[15-Aug-2024 12:42:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/bpaycomp/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/Model.php(29): PDO->__construct('mysql:host=loca...', 'bpaycomp_new', 'admin@25..25')
+#1 /home/bpaycomp/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/bpaycomp/public_html/core/Controllers/AdminController.php(20): Model->__construct()
+#3 /home/bpaycomp/public_html/admin/dashboard/includes/route.php(54): AdminController->__construct()
+#4 /home/bpaycomp/public_html/admin/dashboard/index.php(1): require_once('/home/bpaycomp/...')
+#5 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/Model.php on line 29
+[16-Aug-2024 09:01:46 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[18-Aug-2024 09:13:14 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[19-Aug-2024 11:52:27 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[20-Aug-2024 12:05:56 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[20-Aug-2024 12:06:14 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[22-Aug-2024 22:17:43 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[26-Aug-2024 18:05:07 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[26-Aug-2024 18:05:37 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41
+[28-Aug-2024 20:25:32 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[29-Aug-2024 20:39:17 Africa/Lagos] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bpaycomp/public_html/admin/dashboard/dashboard.php on line 97
+[01-Mar-2025 13:07:40 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/bpaycomp/public_html/admin/dashboard/transactions.php on line 41

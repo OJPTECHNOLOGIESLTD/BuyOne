@@ -1,0 +1,2 @@
+[06-Jul-2024 14:14:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$error in /home/bpaycomp/public_html/core/Controllers/Electricity.php on line 164
+[06-Jul-2024 14:14:36 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/bpaycomp/public_html/core/Controllers/Electricity.php on line 164
