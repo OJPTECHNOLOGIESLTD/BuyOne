@@ -1,0 +1,1 @@
+{"status":"fail","msg":"Meter Type Is Required"}https://vtunaija.com.ng/api/electricity/verify/?mtype=postpaid&disconame=enugu-electric&disco=9&meternumber=45028675804

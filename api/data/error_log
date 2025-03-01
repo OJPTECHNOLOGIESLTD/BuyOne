@@ -1,0 +1,389 @@
+[26-Jun-2024 22:02:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[26-Jun-2024 22:02:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[26-Jun-2024 22:02:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 81
+[04-Jul-2024 17:04:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[04-Jul-2024 17:04:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[04-Jul-2024 17:04:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 81
+[04-Jul-2024 19:26:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/InternetData.php:76
+Stack trace:
+#0 /home/bpaycomp/public_html/api/data/index.php(260): InternetData->purchaseData(Object(stdClass), Array, 'Corporate', '49')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 76
+[04-Jul-2024 19:34:18 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/InternetData.php:76
+Stack trace:
+#0 /home/bpaycomp/public_html/api/data/index.php(260): InternetData->purchaseData(Object(stdClass), Array, 'Corporate', '49')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 76
+[05-Jul-2024 08:17:20 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/InternetData.php:76
+Stack trace:
+#0 /home/bpaycomp/public_html/api/data/index.php(260): InternetData->purchaseData(Object(stdClass), Array, 'Corporate', '49')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 76
+[05-Jul-2024 08:35:59 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/InternetData.php:76
+Stack trace:
+#0 /home/bpaycomp/public_html/api/data/index.php(260): InternetData->purchaseData(Object(stdClass), Array, 'Corporate', '49')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 76
+[05-Jul-2024 08:38:19 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/InternetData.php:76
+Stack trace:
+#0 /home/bpaycomp/public_html/api/data/index.php(260): InternetData->purchaseData(Object(stdClass), Array, 'Corporate', '49')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 76
+[05-Jul-2024 09:04:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/InternetData.php:76
+Stack trace:
+#0 /home/bpaycomp/public_html/api/data/index.php(260): InternetData->purchaseData(Object(stdClass), Array, 'Corporate', '49')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 76
+[05-Jul-2024 09:06:34 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/InternetData.php:76
+Stack trace:
+#0 /home/bpaycomp/public_html/api/data/index.php(260): InternetData->purchaseData(Object(stdClass), Array, 'Corporate', '49')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 76
+[05-Jul-2024 09:07:53 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/InternetData.php:76
+Stack trace:
+#0 /home/bpaycomp/public_html/api/data/index.php(260): InternetData->purchaseData(Object(stdClass), Array, 'Corporate', '49')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 76
+[05-Jul-2024 09:17:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/api/data/index.php:230
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 230
+[05-Jul-2024 09:19:01 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/api/data/index.php:230
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 230
+[05-Jul-2024 17:39:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[05-Jul-2024 17:39:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[05-Jul-2024 17:39:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 81
+[05-Jul-2024 17:42:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '6431.26', '6371.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 6431.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:42:32 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '6371.26', '6311.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 6371.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:43:08 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '6311.26', '6251.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 6311.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:43:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '6251.26', '6191.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 6251.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:45:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '6191.26', '6131.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 6191.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:45:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '6131.26', '6071.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 6131.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:46:23 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '6071.26', '6011.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 6071.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:46:27 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '6011.26', '5951.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 6011.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:47:19 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '5951.26', '5891.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5951.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:48:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '5891.26', '5831.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5891.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:48:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '5831.26', '5771.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5831.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:48:56 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '5771.26', '5711.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5771.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:49:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '5711.26', '5651.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5711.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:50:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '5651.26', '5591.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5651.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[05-Jul-2024 17:52:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '78701720196554' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '78701720196554', '60', '5591.26', '5531.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(265): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5591.26, '78701720196554', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[06-Jul-2024 08:26:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[06-Jul-2024 08:26:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[06-Jul-2024 08:26:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 81
+[06-Jul-2024 08:29:09 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '81861720250491' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '81861720250491', '60', '5411.26', '5351.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(267): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5411.26, '81861720250491', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[06-Jul-2024 08:29:38 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '81861720250491' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '81861720250491', '60', '5351.26', '5291.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(267): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5351.26, '81861720250491', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[06-Jul-2024 08:29:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '81861720250491' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '81861720250491', '60', '5291.26', '5231.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(267): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5291.26, '81861720250491', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[06-Jul-2024 08:30:05 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '81861720250491' for key 'transactions.transref' in /home/bpaycomp/public_html/core/Models/ApiModel.php:315
+Stack trace:
+#0 /home/bpaycomp/public_html/core/Models/ApiModel.php(315): PDOStatement->execute()
+#1 /home/bpaycomp/public_html/core/Controllers/ApiAccess.php(292): ApiModel->recordTransaction(3.0, 'Data', 'Purchase of GLO...', '81861720250491', '60', '5231.26', '5171.26', 5.0)
+#2 /home/bpaycomp/public_html/api/data/index.php(267): ApiAccess->recordTransaction(3, 'Data', 'Purchase of GLO...', 60.0, 5231.26, '81861720250491', '5')
+#3 {main}
+  thrown in /home/bpaycomp/public_html/core/Models/ApiModel.php on line 315
+[06-Jul-2024 08:34:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[06-Jul-2024 08:34:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 78
+[06-Jul-2024 08:34:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 81
+[06-Jul-2024 08:35:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 77
+[06-Jul-2024 08:35:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 77
+[06-Jul-2024 08:35:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 80
+[06-Jul-2024 08:35:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 77
+[06-Jul-2024 08:35:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 77
+[06-Jul-2024 08:35:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 80
+[06-Jul-2024 08:35:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 77
+[06-Jul-2024 08:35:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 77
+[06-Jul-2024 08:35:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 80
+[06-Jul-2024 08:41:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 79
+[06-Jul-2024 08:41:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 79
+[06-Jul-2024 08:41:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/bpaycomp/public_html/core/Controllers/InternetData.php on line 82
+[06-Jul-2024 09:09:53 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 283
+[06-Jul-2024 09:11:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 283
+[06-Jul-2024 08:12:39 UTC] PHP Parse error:  syntax error, unexpected token ".", expecting end of file in /home/bpaycomp/public_html/api/data/index.php on line 275
+[06-Jul-2024 12:32:30 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[08-Jul-2024 21:51:12 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Jul-2024 01:15:49 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Jul-2024 09:51:55 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Jul-2024 11:05:32 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Jul-2024 11:25:42 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Jul-2024 11:28:01 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Jul-2024 11:37:11 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Jul-2024 12:14:30 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Jul-2024 20:58:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[10-Jul-2024 18:36:50 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[10-Jul-2024 21:59:25 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[12-Jul-2024 10:10:58 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[14-Jul-2024 09:16:08 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[15-Jul-2024 04:51:57 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[16-Jul-2024 22:24:00 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[20-Jul-2024 23:56:12 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[22-Jul-2024 02:41:00 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[23-Jul-2024 18:50:40 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[23-Jul-2024 18:51:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[23-Jul-2024 18:52:28 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[24-Jul-2024 15:23:58 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[24-Jul-2024 19:45:01 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[25-Jul-2024 16:10:34 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[25-Jul-2024 16:19:53 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[30-Jul-2024 16:46:34 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[30-Jul-2024 20:12:31 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[30-Jul-2024 21:10:41 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[01-Aug-2024 18:01:39 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[09-Aug-2024 15:02:32 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[14-Aug-2024 09:49:12 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[14-Aug-2024 09:50:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[19-Aug-2024 18:35:11 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[19-Aug-2024 19:12:12 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[19-Aug-2024 23:01:28 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[20-Aug-2024 12:15:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[23-Aug-2024 10:46:52 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[23-Aug-2024 10:47:21 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[26-Aug-2024 14:29:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[29-Aug-2024 09:34:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[04-Sep-2024 22:45:00 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[15-Oct-2024 13:30:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296
+[28-Feb-2025 23:14:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bpaycomp/public_html/api/data/index.php:296
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/data/index.php on line 296

@@ -1,0 +1,41 @@
+[07-Jul-2024 16:05:48 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/bpaycomp/public_html/core/Controllers/Electricity.php:37
+Stack trace:
+#0 /home/bpaycomp/public_html/api/electricity/verify/index.php(160): Electricity->validateMeterNumber(Object(stdClass), '9', 'Enugu Electric')
+#1 {main}
+  thrown in /home/bpaycomp/public_html/core/Controllers/Electricity.php on line 37
+[07-Jul-2024 16:22:22 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:22:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:22:37 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:22:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:23:01 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:23:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:23:42 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:23:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:24:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:25:25 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:25:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:26:25 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:26:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:27:16 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:27:16 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:28:34 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:28:34 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:29:01 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:29:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:30:00 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:30:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:30:44 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:30:44 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:31:13 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:31:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:31:59 Africa/Lagos] PHP Warning:  Array to string conversion in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 161
+[07-Jul-2024 16:31:59 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:31:59 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:42:15 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/bpaycomp/public_html/api/electricity/verify/index.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:43:49 Africa/Lagos] PHP Warning:  Array to string conversion in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 161
+[07-Jul-2024 16:43:49 Africa/Lagos] PHP Warning:  Undefined array key "status" in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 162
+[07-Jul-2024 16:43:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bpaycomp/public_html/api/electricity/verify/index.php:161) in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 173
+[07-Jul-2024 16:44:51 Africa/Lagos] PHP Warning:  Array to string conversion in /home/bpaycomp/public_html/api/electricity/verify/index.php on line 161
